@@ -1,2 +1,2 @@
 # FCC-Projects
-Hosting for learn.freecodecamp.org.
+Hosting media files for my projectss at learn.freecodecamp.org.
